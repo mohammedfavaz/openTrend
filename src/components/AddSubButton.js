@@ -36,7 +36,6 @@ const styles=StyleSheet.create({
   buttonView:{
     height:23,
     paddingHorizontal:10,
-    backgroundColor:"green",
     borderRadius:7,
     alignItems:"center",
     justifyContent:"center"
