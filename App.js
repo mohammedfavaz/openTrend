@@ -14,7 +14,6 @@ const styles=StyleSheet.create({
   mainView:{
     flex:1,
     backgroundColor:"#fff",
-    padding:10,
     alignItems:"center",
     justifyContent:"center"
   }
